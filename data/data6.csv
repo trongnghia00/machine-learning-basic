@@ -1,0 +1,101 @@
+Age,Salary,Gender,Department,City,Hire-Date
+56,32695.0,Female,IT,Chicago,2013-12-16
+46,78190.0,Male,Finance,Phoenix,2021-07-01
+32,35258.0,Male,Finance,Houston,2020-09-28
+60,117538.0,Female,IT,Houston,2010-09-11
+25,69504.0,Male,IT,Houston,2018-09-19
+38,63159.0,Male,IT,Houston,2017-01-01
+56,43986.0,Male,HR,New York,2010-04-09
+36,,Male,HR,Phoenix,2016-01-10
+40,42666.0,Female,Finance,Houston,2018-02-09
+28,68660.0,Male,IT,Phoenix,2022-02-20
+28,33561.0,Female,HR,Chicago,2020-05-05
+41,56854.0,Female,IT,Chicago,2017-11-09
+53,94505.0,Female,Marketing,Chicago,2018-11-09
+57,,Male,Marketing,Los Angeles,2020-05-19
+41,82251.0,Female,Finance,Los Angeles,2012-08-14
+20,52662.0,Male,HR,Chicago,2021-02-19
+39,38392.0,Female,Finance,Los Angeles,2010-06-10
+19,60535.0,Male,Sales,Chicago,2022-04-21
+41,108603.0,Female,Marketing,Chicago,2013-07-24
+61,143569.0,Male,Sales,Los Angeles,2020-12-01
+47,82256.0,Female,Finance,New York,2014-03-08
+55,119135.0,Male,HR,Phoenix,2013-05-03
+19,65222.0,Male,IT,Los Angeles,2022-04-24
+38,107373.0,Male,Finance,Los Angeles,2022-12-19
+50,109575.0,Female,HR,Houston,2018-07-02
+29,126354.0,Female,Marketing,New York,2017-06-28
+39,114651.0,Female,Sales,Los Angeles,2022-06-22
+61,93335.0,Female,HR,Los Angeles,2012-08-12
+42,40965.0,Male,IT,Phoenix,2022-07-02
+44,54538.0,Female,HR,Phoenix,2019-06-09
+59,,Female,IT,New York,2012-11-11
+45,100592.0,Female,IT,New York,2014-08-21
+33,128018.0,Male,Sales,New York,2019-05-30
+32,143252.0,Male,Sales,Los Angeles,2011-07-17
+64,38110.0,Male,Finance,Phoenix,2016-10-21
+61,109309.0,Female,Finance,Houston,2019-03-09
+20,57266.0,Female,Finance,Phoenix,2010-08-14
+54,82992.0,Male,IT,New York,2012-08-17
+24,112948.0,Female,Sales,Houston,2022-06-15
+38,128806.0,Male,Marketing,Houston,2018-05-26
+26,36910.0,Female,HR,New York,2012-03-26
+56,,Male,HR,Chicago,2022-09-17
+35,120982.0,Male,Marketing,New York,2018-07-18
+21,149176.0,Female,HR,New York,2010-01-17
+42,30206.0,Male,Marketing,Chicago,2013-05-28
+31,117054.0,Male,IT,Houston,2016-01-15
+26,117897.0,Male,Sales,New York,2016-11-29
+43,53419.0,Female,HR,Chicago,2012-12-05
+19,80636.0,Female,HR,Houston,2019-06-07
+37,144238.0,Female,Marketing,Houston,2017-01-09
+45,80015.0,Female,Marketing,New York,2012-11-26
+64,147478.0,Female,Finance,Phoenix,2016-05-16
+24,137059.0,Male,Finance,Houston,2019-05-14
+61,84268.0,Female,Sales,Los Angeles,2010-10-29
+25,140687.0,Male,Finance,Los Angeles,2021-09-16
+64,117939.0,Female,Sales,Los Angeles,2011-08-30
+52,,Male,Finance,Chicago,2018-09-06
+31,110356.0,Male,Sales,Houston,2011-12-01
+34,135878.0,Male,Finance,Chicago,2013-02-13
+53,101910.0,Male,Marketing,Houston,2010-07-10
+57,86044.0,Male,Sales,Houston,2016-04-19
+21,97214.0,Male,Sales,New York,2012-09-07
+19,147930.0,Male,Sales,Chicago,2018-02-23
+23,149324.0,Male,HR,Los Angeles,2013-03-30
+59,63827.0,Female,HR,Houston,2019-02-10
+21,85820.0,Female,Sales,New York,2019-04-18
+46,92623.0,Female,Sales,Chicago,2010-05-08
+35,111734.0,Female,HR,Phoenix,2015-08-28
+43,105450.0,Female,Finance,Los Angeles,2014-12-22
+61,123426.0,Male,Finance,Chicago,2011-07-24
+51,147845.0,Male,Sales,Phoenix,2015-03-11
+27,52299.0,Female,HR,Chicago,2017-06-26
+53,73585.0,Male,HR,Los Angeles,2020-07-30
+31,139225.0,Female,IT,Chicago,2022-12-05
+48,94044.0,Female,IT,New York,2020-12-28
+32,72557.0,Female,IT,Los Angeles,2017-12-11
+25,79080.0,Female,Finance,Phoenix,2014-08-14
+31,139556.0,Female,IT,Chicago,2018-03-29
+40,32693.0,Male,HR,Los Angeles,2010-06-04
+57,125003.0,Male,IT,New York,2016-12-12
+38,125259.0,Male,Marketing,Phoenix,2013-11-10
+33,142235.0,Male,Sales,Houston,2021-02-09
+62,99163.0,Female,IT,Los Angeles,2012-02-24
+35,55939.0,Male,Finance,Chicago,2018-09-11
+64,78925.0,Male,Marketing,Houston,2021-11-20
+41,72941.0,Female,HR,Los Angeles,2017-09-07
+43,51834.0,Female,HR,Houston,2011-06-22
+42,48047.0,Female,Finance,Los Angeles,2015-01-16
+62,56105.0,Female,Finance,Chicago,2016-09-21
+58,105766.0,Male,Finance,Chicago,2011-06-09
+46,45707.0,Female,HR,New York,2018-01-29
+32,51976.0,Female,HR,Chicago,2021-04-24
+62,74262.0,Male,Finance,New York,2021-04-08
+18,53776.0,Female,Marketing,Chicago,2016-06-26
+42,60080.0,Female,IT,New York,2020-07-14
+24,96842.0,Male,HR,Chicago,2022-04-23
+26,91373.0,Female,Marketing,New York,2017-05-25
+41,36776.0,Female,Sales,New York,2012-08-29
+18,122787.0,Female,Sales,New York,2013-03-12
+61,85016.0,Male,Marketing,Chicago,2017-08-06
